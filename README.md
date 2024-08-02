@@ -1,2 +1,2 @@
-# Stock price prediction by using LSTM ans ANN
+# Stock price prediction by using LSTM and ANN
 Project-2
